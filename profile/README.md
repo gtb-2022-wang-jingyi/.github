@@ -3,7 +3,7 @@ Hi, my name is Jingyi Wang, or you can also call me Kimmy.
 You can find me in with this Conan avatar below
 ![Alt text](/pics/portrait.jpg)    
 
-I studied telecommunications for undergrade and change to computing for my master degree.  
+I studied telecommunications for undergrad and change to computing for my master degree.  
 ![Alt text](/pics/grad.jpg)
 This is me in 2019 on my graduation ceremony.    
 
